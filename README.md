@@ -1,4 +1,3 @@
-```markdown
 # free-gpt4turbo
 
 Welcome to the `free-gpt4turbo` project, where we harness the power of GPT-4 to turbocharge your AI applications!
