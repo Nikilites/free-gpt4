@@ -10,7 +10,7 @@ while True:
 
     # server request
     response = client.chat.completions.create(
-        model="gpt-4-turbo",
+        model="gpt-4",
         messages=[{"role": "user", "content": input_user}],
         # here you can put other parameters if you need to
     )
