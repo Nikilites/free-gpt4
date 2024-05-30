@@ -9,7 +9,7 @@ Welcome to the `free-gpt4` project, where we harness the power of GPT-4 to turbo
 To get started with `free-gpt4`, you'll need to install the necessary package via pip. Run the following command in your terminal:
 
 ```bash
-pip install -U g4f
+pip install -U g4f[all]
 ```
 
 This will install the latest version of the `g4f` package, ensuring you have all the up-to-date features and improvements.
